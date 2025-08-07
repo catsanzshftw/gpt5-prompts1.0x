@@ -1,0 +1,2 @@
+# gpt5-prompts1.0x
+1.0xa
